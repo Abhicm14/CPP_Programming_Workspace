@@ -13,6 +13,12 @@
     Functions can be categorized into two types:
     1. Built-in functions: These are functions that are provided by the C++ standard library, such as `std::cout`, `std::cin`, `std::sqrt()`, etc.
     2. User-defined functions: These are functions that are defined by the programmer to perform specific tasks.
+
+    Example of a user-defined function:
+        3 Major components of a function:
+            1. Function prototype (declaration): This is where you declare the function's name, return type, and parameters (if any). It tells the compiler about the function's existence and how to call it.
+            2. Function definition: This is where you provide the actual implementation of the function.
+            3. Function call: This is where you invoke the function to execute its code.
 */
 
 #include <iostream>
